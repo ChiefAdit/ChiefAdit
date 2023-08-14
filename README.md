@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.png" alt="Banner">
+  <img src="assets\versi compress.jpg" alt="Banner" size = 50px>
 </p>
 
 <h1 align="center">Halo, Saya Aditya Wisnu Permana 👋</h1>
@@ -20,19 +20,16 @@ Saya adalah seorang Backend Engineer dengan hasrat dalam membangun solusi teknis
 
 ## Proyek Terbaru
 
-### [Nama Proyek](link_proyek)
-Deskripsi singkat tentang proyek Anda dan peran Anda dalam proyek ini.
+### [FIT Competition](link_proyek)
+Ini adalah project untuk lomba FIT Competition 2023 dimana challange membuat aplikasi dengan batas waktu 12 jam dan aplikasi yang aku dan timku buat adalah T-Com dimana aplikasi ini akan mengakomodasi kebutuhan para gamer yang ingin mencari sebuah turnamen dan para penyelenggara turnamen tidak perlu repot repot mengurus turnamen seperti bracket dan lainnya karena dengan aplikasi ini penyelenggara tinggal melaksanakan pertandingan dan update bracket sesuai dengan hasil yang sudah keluar di dalam aplikasi.
 
-### [Nama Proyek Lainnya](link_proyek_lain)
-Deskripsi singkat tentang proyek Anda dan peran Anda dalam proyek ini.
+
 
 ## Portofolio
 
-- Proyek 1: [Nama Proyek](link_proyek)
-  Deskripsi singkat tentang proyek dan teknologi yang digunakan.
+- Proyek 1: [Web Ecommers Kapita](link_proyek)
+  Sebuah Web Ecommers penjualan yang dibuat untuk memenuhi tugas akhir kelas kapita alfamart dengan pengerjaan selama 4 hari nonstop untuk backend dan frontend menggunakan google cloud platform dimana framwork yang digunakan adalan Falcon untuk membuat endpoint api serta Flask untuk membuat tampilan website.
 
-- Proyek 2: [Nama Proyek](link_proyek)
-  Deskripsi singkat tentang proyek dan teknologi yang digunakan.
 
 ## Hubungi Saya
 

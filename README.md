@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="assets\versi compress.jpg" alt="Banner" height="280" width="180">
+  <img src="assets\versi compress.jpg" alt="Banner" height="295" width="180">
 </p>
 
 <h1 align="center">Halo, Saya Aditya Wisnu Permana 👋</h1>
 <h3 align="center">Seorang Backend Engineer dengan fokus pada Python dan .NET dan sekarang sedang bekerja di Pt Alfamart sebagai IT Developer intern</h3>
 
-## Tentang Saya
+## 👦  Tentang Saya 
 
 Saya adalah seorang Backend Engineer. Saya memiliki pengalaman dalam mengembangkan aplikasi web dan layanan menggunakan bahasa pemrograman Python dan .NET. Saya percaya pada prinsip clean code, modularitas, dan pengujian yang kuat untuk mencapai hasil berkualitas tinggi.
 
-## Keahlian
+## 👋  Keahlian
 
-- Pengembangan Aplikasi Web dengan **Python Django** , **Flask** dan **Falcon**
-- Pengembangan Layanan dengan **ASP.NET Core**
-- Integrasi Basis Data dengan **SQL Server** dan **PostgreSQL**
-- Pengelolaan Kode Sumber dengan **Git**
-- Pengujian Unit dan Integrasi
-- Menerapkan Arsitektur MikroService
-- Penggunaan Cloud Computing GCP
-- Network Engineer Rt/Rw Net
+- 💻  Pengembangan Aplikasi Web dengan **Python Django** , **Flask** dan **Falcon**
+- 🖥  Pengembangan Layanan dengan **ASP.NET Core**
+- 🧮  Integrasi Basis Data dengan **SQL Server** dan **PostgreSQL**
+- 🔌  Pengelolaan Kode Sumber dengan **Git**
+- 📳  Pengujian Unit dan Integrasi
+- 🌥  Menerapkan Arsitektur MikroService
+- 🌥  Penggunaan Cloud Computing GCP
+- 📶  Network Engineer Rt/Rw Net
 
 ## Penghargaan
 - 🏆 Juara 1 Gemastik FTI 2022 🥇

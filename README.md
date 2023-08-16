@@ -43,7 +43,7 @@ Ini adalah project untuk lomba FIT Competition 2023 dimana challange membuat apl
 ## Hubungi Saya
 
 📫 Email: [adityawisnu139](mailto:adityawisnu139@gmail.com)
-💼 LinkedIn: [Aditya Wisnu](www.linkedin.com/in/aditya-wisnu-permana)
+💼 LinkedIn: [Aditya Wisnu](https://www.linkedin.com/in/aditya-wisnu-permana/)
 🐦 Instagram: [@aditya_wisnu._](https://www.instagram.com/aditya_wisnu._/)
 
 ## Lisensi

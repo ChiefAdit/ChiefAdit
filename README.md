@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets\versi compress.jpg" alt="Banner" height="295" width="180">
-</p>
+
 
 <h1 align="center">Halo, Saya Aditya Wisnu Permana 👋</h1>
 <h3 align="center">Seorang Backend Engineer dengan fokus pada Python dan .NET dan sekarang sedang bekerja di Pt Alfamart sebagai IT Developer intern</h3>
